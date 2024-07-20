@@ -6,4 +6,6 @@ A simple godot addon that opens a terminal on editor startup
 *Linux*
 
   
-**How to install**: Clone / download the repo and copy the addons folder to your godot project.
+**How to install**: Clone / download the repo and copy the addons folder to your godot project.  
+
+if your terminal doesn't show on linux change "konsole" on line 15 of plugin.gd to your terminal of choice
